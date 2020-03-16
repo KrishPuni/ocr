@@ -7,5 +7,5 @@ All members of the group had a chance to add their ideas for a project to work o
 ## Details on the selected project
 
 
-#Tech stack
+<b>Tech stack</b>
 We will be building this project with JavaScript: React on the frontend and Mysql in the backend. More details to come!
